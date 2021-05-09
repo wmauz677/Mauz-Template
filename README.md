@@ -1,30 +1,31 @@
 <!-- PROJECT SHIELDS -->
 
-<!-- ![Language][language-shield] -->
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
 <!-- [![Forks][forks-shield]][forks-url] -->
 <!-- [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url] -->
+[comment]: <> (Project Shields)
+
 [![Status][status-shield]][status-link]
-<br />
-<br />
 [![MIT License][license-shield]][license-url]
+![Language][language-shield]
 
 
 
 <!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
-  <a href="https://wmauz677.github.io/Mauz-Portfolio-Web/index.html">
-    <img src="icons/web.png" alt="Logo" width="80" height="80">
+  <a href="https://wmauz677.github.io/East-Meets-Weast/">
+    <img src="logo3.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Weston Mauz Web Portfolio</h3>
+  <h3 align="center">Project Title</h3>
 
   <p align="center">
     <!--     A comprehensive web portfolio -->
     <!-- <br />
-    <a href="https://github.com"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com"><strong>Explore the docs »<_strong><_a>
     <br /> -->
     <!-- <br />
     <a href="https://github.com">View Demo</a>
@@ -44,22 +45,22 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Built With<_a><_li>
       </ul>
     </li>
     <!-- <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Prerequisites<_a><_li>
+        <li><a href="#installation">Installation<_a><_li>
       </ul>
     </li> -->
-    <!-- <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li> -->
-    <li><a href="#license">License</a></li>
-    <!-- <li><a href="#contact">Contact</a></li> -->
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <!-- <li><a href="#usage">Usage<_a><_li>
+    <li><a href="#roadmap">Roadmap<_a><_li>
+    <li><a href="#contributing">Contributing<_a><_li> -->
+    <li><a href="#license">License<_a><_li>
+    <!-- <li><a href="#contact">Contact<_a><_li> -->
+    <li><a href="#acknowledgements">Acknowledgements<_a><_li>
   </ol>
 </details>
 
@@ -68,29 +69,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Mauz Resume Website Screen Shot][product-screenshot]
+![Project Screenshot][project-screenshot]
 
-I created this website to further display my technical skills and showcase my projects.
-
-The website is based off of a template by HTML5UP and the website is deployed through GitHub Pages.
-
-Google Analytics are built in to monitor website activity.
+I created this blog to document my time spent in Taiwan during my engineering assignment with Taiwan Semiconductor Manufacturing Company
 
 ### Built With
 
 Text Editors
 * [Atom](https://atom.io)
-* [Sublime Text](https://www.sublimetext.com)
+* [Bear](https://bear.app)
 
 Website Template
-* [HTML5 UP](https://html5up.net)
+* [Jekyll](https://jekyllrb.com)
 
 Deployment
 * [GitHub Pages](https://pages.github.com)
-
-Analytics
-* [Google Analytics](https://marketingplatform.google.com/about/analytics/)
-
 
 <!-- GETTING STARTED -->
 <!-- ## Getting Started
@@ -143,7 +136,7 @@ See the [open issues](https://github.com/username/project/issues) for a list of 
 <!-- CONTRIBUTING -->
 <!-- ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -154,11 +147,10 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 <!-- ## Contact
@@ -167,6 +159,7 @@ Weston Mauz - [@your_twitter](https://twitter.com/your_username) - email@email.c
 
 
 <!-- ACKNOWLEDGEMENTS -->
+
 ## Acknowledgements
 Licensing
 * [License](https://opensource.org/licenses/MIT)
@@ -175,29 +168,24 @@ Licensing
 * [Font Awesome](https://fontawesome.com)
 
 Templates
-* [HTML5 UP](https://html5up.net)
+* [Jekyll](https://jekyllrb.com)
 * [IMG Shields](https://shields.io)
 * [README Template](https://github.com/othneildrew/Best-README-Template)
 
 Text Editors
-* [Sublime Text](https://www.sublimetext.com)
 * [Atom](https://atom.io)
+* [Bear](https://bear.app)
 
 Deployment
 * [GitHub Pages](https://pages.github.com)
 
-Analytics
-* [Google Analytics](https://marketingplatform.google.com/about/analytics/)
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [language-shield]: https://img.shields.io/github/languages/top/wmauz677/personalWeb?style=for-the-badge
 [status-shield]: https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwmauz677.github.io%2FMauz-Portfolio-Web%2Findex.html
 [status-link]: https://wmauz677.github.io/personalWeb/
 [license-shield]: https://img.shields.io/github/license/wmauz677/personalWeb?color=red&style=for-the-badge
 [license-url]: https://github.com/wmauz677/personalWeb/blob/gh-pages/LICENSE
-[product-screenshot]: images/main-screenshot.png
+[project-screenshot]: project-screenshot.png
