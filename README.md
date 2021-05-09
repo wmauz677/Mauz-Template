@@ -20,7 +20,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Project Title</h3>
+  <h3 align="center">East Meets Weast</h3>
 
   <p align="center">
     <!--     A comprehensive web portfolio -->
