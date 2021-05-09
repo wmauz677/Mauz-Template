@@ -184,7 +184,7 @@ Deployment
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [language-shield]: https://img.shields.io/github/languages/top/wmauz677/personalWeb?style=for-the-badge
-[status-shield]: https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwmauz677.github.io%2FMauz-Portfolio-Web%2Findex.html
+[status-shield]: https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwmauz677.github.io%2FEast-Meets-Weast%2F
 [status-link]: https://wmauz677.github.io/personalWeb/
 [license-shield]: https://img.shields.io/github/license/wmauz677/personalWeb?color=red&style=for-the-badge
 [license-url]: https://github.com/wmauz677/personalWeb/blob/gh-pages/LICENSE
